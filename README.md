@@ -1,5 +1,5 @@
 
-<h1 align="center"> Github Profile Readme Creator </h1>
+<h1 align="center"> Github Profile Readme Generator </h1>
 <h4 align="center">Create a README.md file for your profile in less than a minute!<br/></h4>
 
 <p align="center">
