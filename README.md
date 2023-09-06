@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/images/person.ico"  align="center" height="50"/>
+<img src="https://github.com/faisal-gits/Github-Profile-Readme-Creator/blob/master/images/person.ico"  align="center" height="50"/>
 </p>
 
 <h1 align="center"> Github Profile Readme Creator </h1>
 <h4 align="center">Create a README.md file for your profile in less than a minute!<br/></h4>
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=rajk3770-github-profile-readme-creator alt=rajk3770 /> </p>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=faisal-gits-github-profile-readme-creator alt=faisal-gits /> </p>
 <p align="center">
 The website for this source code is deployed <a href="https://github-profile-readme-creator.web.app">
 here.</a>
